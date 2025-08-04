@@ -1,0 +1,139 @@
+{
+  "project_name": "VoxCampus",
+  "tagline": "Unified Campus Networking Platform",
+  "problem_statement": "Students miss opportunities to join clubs and showcase work due to no centralized platform",
+  "survey_insights": {
+    "total_responses": 86,
+    "year_distribution": {
+      "3rd_year": 82.6,
+      "1st_year": 14,
+      "2nd_year": "small number",
+      "passouts": 3
+    },
+    "missing_events": {
+      "sometimes": 50.6,
+      "yes_a_lot": 18.8,
+      "not_really": 30.6
+    },
+    "desired_features": {
+      "timely_notifications": 61.6,
+      "easily_join_clubs": 59.3,
+      "showcase_skills": 57.0,
+      "connect_collaborate": 47.7
+    },
+    "interest_areas": {
+      "coding_tech_clubs": 61.6,
+      "college_events": 59.3,
+      "inter_college_events": 57.0,
+      "research_innovation": 53.5,
+      "cultural_clubs": 48.8,
+      "sports_fitness": 38.4,
+      "entrepreneurship": 36.0,
+      "social_service": 30.2
+    },
+    "showcase_willingness": {
+      "yes_definitely": 51.2,
+      "neutral": 41.9,
+      "no_not_really": 6.9
+    },
+    "app_usage_intent": {
+      "definitely": 53.5,
+      "maybe": 45.3,
+      "not_interested": 1.2
+    }
+  },
+  "empathy_map": {
+    "say": [
+      "Difficulty balancing lectures with extracurricular activities",
+      "Interest in joining tech teams and starting with fundamentals",
+      "Seek exemption and guidance to support learning and placements"
+    ],
+    "think": [
+      "Structured exposure beyond academics is essential",
+      "Value peer and senior connections for growth",
+      "A centralized platform would simplify access to opportunities"
+    ],
+    "do": [
+      "Attend lectures while trying to engage in technical activities",
+      "Look for ways to connect with professionals for support",
+      "Explore basic-level opportunities to upskill"
+    ],
+    "feel": [
+      "Restricted by academic schedules",
+      "Eager but uncertain about how to begin",
+      "Value mentorship and structured guidance"
+    ],
+    "pains": [
+      "Lack of centralized access to campus opportunities",
+      "Limited interaction with peers and seniors",
+      "Missing events due to poor communication"
+    ],
+    "gains": [
+      "Discover clubs, events, and projects easily",
+      "Build meaningful peer and mentor connections",
+      "Showcase skills to enhance placement chances"
+    ]
+  },
+  "persona": {
+    "name": "Avinash Mehta",
+    "age": 19,
+    "occupation": "AI Engineer Student",
+    "location": "Mumbai",
+    "education": "Computer Engineering, Nashik",
+    "background": "First-generation college-goer, manages studies with freelancing",
+    "quote": "I'm always striving for growth and opportunities, but it's incredibly frustrating when crucial information is scattered. It feels like a constant hunt, and I often miss out on what could be vital for my progress.",
+    "motivations": [
+      "Personal and professional growth",
+      "Recognition for efforts",
+      "Validation of achievements from peers and employers"
+    ],
+    "goals": [
+      "Discover all relevant campus events and opportunities",
+      "Effectively showcase skills and projects",
+      "Connect with like-minded peers for collaboration",
+      "Secure better internships and career prospects"
+    ],
+    "frustrations": [
+      "Scattered campus information makes finding opportunities difficult",
+      "Missing out on events due to poor communication",
+      "Lack of centralized platform for essential updates"
+    ],
+    "technology_preferences": {
+      "os": "Android",
+      "communication": [
+        "WhatsApp",
+        "Instagram",
+        "Discord"
+      ],
+      "professional": "LinkedIn",
+      "learning": [
+        "Udemy",
+        "YouTube",
+        "NPTEL"
+      ]
+    }
+  },
+  "solution": {
+    "core_features": [
+      "Explore and join clubs",
+      "Create skill-based profiles",
+      "Share updates via post feed",
+      "Event notifications",
+      "Project showcasing",
+      "Peer networking"
+    ],
+    "user_roles": [
+      "Students",
+      "Club leaders",
+      "Faculty",
+      "Administration"
+    ],
+    "benefits": [
+      "Centralized campus information",
+      "Enhanced student engagement",
+      "Better club participation",
+      "Improved networking opportunities",
+      "Skill visibility and recognition"
+    ]
+  }
+}
